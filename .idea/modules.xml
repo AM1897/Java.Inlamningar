@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndraUtmaningen/AndraUtmaningen.iml" filepath="$PROJECT_DIR$/AndraUtmaningen/AndraUtmaningen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calc.temperature.converter/Calc.temperature.converter.iml" filepath="$PROJECT_DIR$/Calc.temperature.converter/Calc.temperature.converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Development.iml" filepath="$PROJECT_DIR$/.idea/Java-Development.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
