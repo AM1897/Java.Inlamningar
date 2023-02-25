@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndraUtmaningen/AndraUtmaningen.iml" filepath="$PROJECT_DIR$/AndraUtmaningen/AndraUtmaningen.iml" />
       <module fileurl="file://$PROJECT_DIR$/CRUD/CRUD.iml" filepath="$PROJECT_DIR$/CRUD/CRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calc.temperatur.converter/Calc.temperatur.converter.iml" filepath="$PROJECT_DIR$/Calc.temperatur.converter/Calc.temperatur.converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calc.temperature.converter/Calc.temperature.converter.iml" filepath="$PROJECT_DIR$/Calc.temperature.converter/Calc.temperature.converter.iml" />
