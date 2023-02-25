@@ -3,11 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndraUtmaningen/AndraUtmaningen.iml" filepath="$PROJECT_DIR$/AndraUtmaningen/AndraUtmaningen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRUD/CRUD.iml" filepath="$PROJECT_DIR$/CRUD/CRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calc.temperature.converter/Calc.temperature.converter.iml" filepath="$PROJECT_DIR$/Calc.temperature.converter/Calc.temperature.converter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Inlamning.CRUD./Inlamning.CRUD..iml" filepath="$PROJECT_DIR$/Inlamning.CRUD./Inlamning.CRUD..iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Development.iml" filepath="$PROJECT_DIR$/.idea/Java-Development.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Calc.temperature.converter/utmaning.01.iml" filepath="$PROJECT_DIR$/Calc.temperature.converter/utmaning.01.iml" />
     </modules>
   </component>
 </project>
