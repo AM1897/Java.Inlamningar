@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CRUD.Inlamning" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Find.Name.Age" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/calc.temperature.convert" vcs="Git" />
   </component>
