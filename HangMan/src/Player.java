@@ -1,9 +1,9 @@
 class Player {
-    private String name;
-    private int guesses;
-    private int points;
+    private String name;    //lagra namnet på spelaren.
+    private int guesses;    //antal gissningar
+    private int points;    //antal rätt gissningar
 
-    public Player(String name) {
+    public Player(String name) {    //som tar in spelarens namn som parameter.
         this.name = name;
         guesses = 0;
         points = 0;
