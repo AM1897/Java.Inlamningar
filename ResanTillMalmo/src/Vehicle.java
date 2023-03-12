@@ -1,22 +1,43 @@
 abstract class Vehicle {
-    private String name;
-    private double fuelEfficiency;
+    private String brand;
+    private String model;
+    private int speed;
+    private int year;
 
-    public Vehicle(String name, double fuelEfficiency) {
-        this.name = name;
-        this.fuelEfficiency = fuelEfficiency;
+    public Vehicle(String brand, String model, int speed, int year) {
+        this.brand = brand;
+        this.model = model;
+        this.speed = speed;
+        this.year = year;
     }
 
-    public String getName() {
-        return name;
+    public Vehicle(String brand2, String model2, int speed2, int year2, double fuelEfficiency) {
     }
 
-    public double getFuelEfficiency() {
-        return fuelEfficiency;
+    public String getBrand() {
+        return brand;
     }
 
-    public double calculateFuelCost(double distance, double fuelPrice) {
-        double fuelConsumpation = distance / fuelEfficiency;
-        return fuelConsumpation * fuelPrice;
+    public String getModel() {
+        return model;
     }
+
+    public int getSpeed() {
+        return speed;
+    
+    }
+    
+    public int getMaxSpeed() {
+        return speed;
+    }
+
+    public int getYear() {
+        return year;
+    }
+
+    public abstract double getFuelEfficiency();
+
+    public abstract double getFuelConsumption(double distance);
+
+    
 }
