@@ -15,7 +15,7 @@ public class Truck extends Vehicle {
     public int getCapacity() {
         return capacity;
     }
-
+     
     @Override
     public double getFuelEfficiency() {
         int speed = getMaxSpeed();
